@@ -1,3 +1,10 @@
 .Pokecard {
     display: inline-block;
+    background: peachpuff;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    margin: 10px 10px;
+    width: 200px;
+    text-align: center;
 }
